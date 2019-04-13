@@ -1,0 +1,26 @@
+{
+  "name": "tesonet1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManfredasMi/tesonet1.git"
+  },
+  "author": "Manfredas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManfredasMi/tesonet1/issues"
+  },
+  "homepage": "https://github.com/ManfredasMi/tesonet1#readme",
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "mocha": "^6.1.3"
+  }
+}
