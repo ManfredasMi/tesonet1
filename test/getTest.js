@@ -1,7 +1,7 @@
 const axios = require('axios');
 const assert = require('assert');
 
-const url = 'http://ptsv2.com/t/fu807-155472261/post';
+const url = 'http://ptsv2.com/t/fu807-1554722621/post';
 
 describe("Testing GET requests body values:", () => {
 
