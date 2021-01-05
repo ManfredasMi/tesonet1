@@ -20,7 +20,7 @@
     "jasmine": "^3.4.0"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "mocha": "^6.1.3"
   }
 }
